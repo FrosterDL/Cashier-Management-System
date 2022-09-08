@@ -1,0 +1,6 @@
+1 Female maryam 2000
+2 Male TAHA 1000
+5 Children DUA 5000
+6 Male FROSTER 6000
+
+
